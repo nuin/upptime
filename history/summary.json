@@ -4,19 +4,19 @@
     "url": "http://intermine.wormbase.org",
     "icon": "https://favicons.githubusercontent.com/intermine.wormbase.org",
     "slug": "worm-mine",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 219,
-    "timeWeek": 221,
-    "timeMonth": 212,
-    "timeYear": 212,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 217,
+    "timeDay": 257,
+    "timeWeek": 230,
+    "timeMonth": 217,
+    "timeYear": 217,
     "dailyMinutesDown": {
-      "2021-01-11": 0
+      "2021-01-11": 39
     }
   }
 ]
